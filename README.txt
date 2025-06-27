@@ -37,7 +37,9 @@ This project implements a binary classification model using **Logistic Regressio
 ## 📈 Visualizations
 
 ![Image](https://github.com/user-attachments/assets/40e555e5-ac55-470c-b5e7-35f0c2693686)
+
 ![Image](https://github.com/user-attachments/assets/14e5fc3c-32b2-4aca-bf43-a12bdf61e777)
+
 
 - ✅ ROC-AUC Curve
 - ✅ Confusion Matrix
