@@ -1,4 +1,4 @@
-## 🧪 Breast Cancer Classification using Logistic Regression
+##  🧪  Breast Cancer Classification using Logistic Regression
 
 This project implements a binary classification model using **Logistic Regression** on the **Breast Cancer Wisconsin Dataset**. It evaluates model performance using key metrics like **confusion matrix**, **precision**, **recall**, **ROC-AUC**, and explores **threshold tuning** to optimize predictions.
 
