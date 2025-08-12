@@ -1,14 +1,9 @@
-# 🧪 Breast Cancer Classification using Logistic Regression
+## 🧪 Breast Cancer Classification using Logistic Regression
 
 This project implements a binary classification model using **Logistic Regression** on the **Breast Cancer Wisconsin Dataset**. It evaluates model performance using key metrics like **confusion matrix**, **precision**, **recall**, **ROC-AUC**, and explores **threshold tuning** to optimize predictions.
 
 ---
 
-## 📁 Project Structure
-
-📦 logistic_regression_full_project/ ├── breast_cancer_cleaned.csv         # Cleaned dataset ├── logistic_regression_model.py      # Full Python script ├── logistic_regression_model.ipynb   # Jupyter notebook version ├── roc_auc_curve.png                 # ROC-AUC Curve plot ├── confusion_matrix.png              # Confusion Matrix plot ├── precision_recall_curve.png        # Precision-Recall Curve plot └── README.md                         # This file
-
----
 
 ## 🧠 What You'll Learn
 
